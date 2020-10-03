@@ -1,4 +1,4 @@
-Burger Builder was bootstrapped with [Create React App Library](https://github.com/facebook/create-react-app).
+Burger Builder Project was bootstrapped with [Create React App Library](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
